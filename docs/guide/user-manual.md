@@ -122,7 +122,7 @@ Here we use INSTALLATION_PATH to represent your installation path, for example `
 
 - Open a terminal
 
-```纯文本
+```text
 cd INSTALLATION_PATH
 cd MetaproForMac
 ```
@@ -166,7 +166,7 @@ bash MetaproStop.sh
 
 - Open a terminal
 
-```纯文本
+```text
 cd INSTALLATION_PATH
 cd MetaproForUbuntu
 ```
@@ -223,7 +223,7 @@ Both directories are automatically set during the installation process. Users ca
 
 Default directories are summarized as follows:
 
-```纯文本
+```text
 [Windows]
 # default analysis data directory
 C://metapro//data
@@ -315,7 +315,7 @@ Introduction and download link of the file conversion software AirdPro is illust
    ![](/images/image_41.png)
    For example:
 
-   ```纯文本
+   ```text
    # Thermo file
    Original: file_name.raw
    Converted: file_name.aird, file_name.json

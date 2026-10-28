@@ -1,8 +1,8 @@
-# README
+# MetaPro
 
 ## User Manual 🥳
 
-[MetaPro User Manual](https://csi-studio.github.io/MetaPro/guide/user-manual.html)
+[MetaPro User Manual](/guide/user-manual)
 
 ## Framework
 
@@ -152,4 +152,4 @@
 
 ## How to use
 
-[UserManual](../guide/user-manual.md)
+[UserManual](/guide/user-manual)

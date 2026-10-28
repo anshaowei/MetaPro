@@ -1,13 +1,15 @@
 {
-  "name": "VuePressMetaPro",
+  "name": "metapro-docs",
   "version": "1.0.0",
-  "main": "index.js",
+  "private": true,
+  "type": "module",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^2.0.0-beta.36"
+    "vitepress": "^1.6.4"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }

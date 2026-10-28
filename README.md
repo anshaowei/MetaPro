@@ -1,4 +1,4 @@
-# README
+# MetaPro
 
 ### This version is for academic use only. For commercial use, please contact us.
 
@@ -8,13 +8,13 @@
 
 ## Framework
 
-![](/docs/.vuepress/public/images/image_34.png)
+![](docs/public/images/image_34.png)
 
 ---
 
 ## Main Interface
 
-![](/docs/.vuepress/public/images/image_33.png)
+![](docs/public/images/image_33.png)
 
 ---
 
@@ -54,7 +54,7 @@
   **Successful operation:**
 
   The following operations appear in the terminal to indicate that the operation is successful:
-  ![](/images/win.png)
+  ![](docs/public/images/win.png)
   **After successful startup, open a browser and connect to** **`localhost:8080`**
 
 - **stop:** Right click `MetaproStop.bat`, run as administrator
